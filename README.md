@@ -74,7 +74,4 @@ The Financial Performance Dashboard is a Tableau-based business analytics projec
 ## 🚀 Conclusion
 This project demonstrates how Tableau can be used to convert raw financial data into meaningful business insights through interactive dashboards.
 
-## 👤 Author
-Pavithra Ram  
-Information Technology Student  
-Aspiring Business & Data Analyst
+
